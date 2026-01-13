@@ -1,4 +1,5 @@
+vim.opt.rtp:prepend(vim.fn.stdpath("data") .. "/lazy/lazy.nvim")
+
 require("base")
-require("config.lazy")
 
 require("lazy").setup("plugins")

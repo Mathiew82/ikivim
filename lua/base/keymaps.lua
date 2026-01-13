@@ -1,3 +1,6 @@
+-- ------------------------------
+-- Global Keymaps
+-- ------------------------------
 vim.g.mapleader = " "                                 -- Define Space como leader key
 
 vim.keymap.set("n", "<leader>,", vim.cmd.bfirst)      -- Foco en la primera buffer
@@ -29,3 +32,12 @@ vim.opt.foldlevelstart = 99   -- Al abrir un archivo, abre todos los pliegues
   -- za = abrir/cerrar manual
   -- zR = abrir todo
   -- zM = cerrar todo
+
+-- ------------------------------
+-- Telescope Keymaps
+-- ------------------------------
+vim.keymap.set("n", "<leader>ff", "<cmd>Telescope find_files<CR>")
+vim.keymap.set("n", "<leader>fg", "<cmd>Telescope live_grep<CR>")
+vim.keymap.set("n", "<leader>fb", "<cmd>Telescope buffers<CR>")
+vim.keymap.set("n", "<leader>fh", "<cmd>Telescope help_tags<CR>")
+
