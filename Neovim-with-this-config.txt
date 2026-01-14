@@ -1,3 +1,17 @@
 Neovim with this config:
 
 :noh (clear search highlight)
+
+-- \\ --
+
+Replace words:
+
+:%s/const/let/g
+
+const banana;
+const pinia;
+-- result --
+let banana;
+let pinia;
+
+-- \\ --
