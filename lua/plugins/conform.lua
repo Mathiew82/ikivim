@@ -11,6 +11,7 @@ return {
           json = { "prettier" },
           css = { "prettier" },
           html = { "prettier" },
+          vue = { "prettier" },
         },
 
         format_on_save = {
@@ -21,4 +22,3 @@ return {
     end,
   },
 }
-
