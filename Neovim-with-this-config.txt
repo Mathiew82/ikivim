@@ -15,3 +15,7 @@ let banana;
 let pinia;
 
 -- \\ --
+
+Move between options (autocomplete, telescope...)
+Ctrl + n -- down
+Ctrl + p -- up
