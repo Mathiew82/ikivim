@@ -1,9 +1,6 @@
 -- ------------------------------
 -- Global Keymaps
 -- ------------------------------
-vim.g.mapleader = " " -- Set Space as the leader key
-
-vim.keymap.set("n", "<leader>ee", vim.cmd.Ex, { desc = "Open netrw" })
 vim.keymap.set("n", "<leader>,,", "<C-^>", { desc = "Jump to alternate file" })
 vim.keymap.set("n", "<leader>,", vim.cmd.bfirst, { desc = "First buffer" })
 vim.keymap.set("n", "<leader>.", vim.cmd.blast, { desc = "Last buffer" })
