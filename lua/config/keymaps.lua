@@ -25,8 +25,33 @@ vim.keymap.set("n", "<leader>ff", "<cmd>Telescope find_files<CR>", { desc = "Fin
 vim.keymap.set("n", "<leader>fg", "<cmd>Telescope live_grep<CR>", { desc = "Live grep (search text in project)" })
 vim.keymap.set("n", "<leader>fb", "<cmd>Telescope buffers<CR>", { desc = "Find buffers" })
 vim.keymap.set("n", "<leader>fh", "<cmd>Telescope help_tags<CR>", { desc = "Help tags" })
+
 -- ------------------------------
 -- Oil Keymaps
 -- ------------------------------
 vim.keymap.set("n", "-", "<cmd>Oil<CR>", { desc = "Oil: open parent directory" })
--- Ctrl + C to close Oil panel
+
+-- ------------------------------
+-- Gitsigns Keymaps
+-- ------------------------------
+vim.keymap.set("n", "<leader>gp", "<cmd>Gitsigns preview_hunk<CR>", {
+  desc = "Gitsigns: Preview hunks in popup"
+})
+vim.keymap.set("n", "<leader>gs", ":Gitsigns stage_hunk<CR>", {
+  desc = "Gitsigns: Stage hunk"
+})
+vim.keymap.set("n", "<leader>gr", ":Gitsigns reset_hunk<CR>", {
+  desc = "Gitsigns: Reset hunk"
+})
+vim.keymap.set("n", "<leader>gb", ":Gitsigns blame_line<CR>", {
+  desc = "Gitsigns: Blame line"
+})
+vim.keymap.set("n", "<leader>gd", ":Gitsigns diffthis<CR>", {
+  desc = "Gitsigns: Diff against HEAD"
+})
+vim.keymap.set("n", "<leader>gn", ":Gitsigns toggle_numhl<CR>", {
+  desc = "Gitsigns: Diff against HEAD"
+})
+vim.keymap.set("n", "<leader>gl", ":Gitsigns toggle_linehl<CR>", {
+  desc = "Gitsigns: Diff against HEAD"
+})
