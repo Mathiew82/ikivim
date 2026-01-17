@@ -215,3 +215,71 @@ After cloning the config:
 ------------------------------------------------------------------------
 
 This README will be extended as more tools and plugins are added.
+
+
+## 🧩 Plugins Neovim
+
+### 🎨 Tema
+- **catppuccin.nvim**  
+  https://github.com/catppuccin/nvim
+
+---
+
+### 🧠 Autocompletado
+- **nvim-cmp**  
+  https://github.com/hrsh7th/nvim-cmp
+
+---
+
+### 🛠 LSP y herramientas
+- **nvim-lspconfig** (Configuración LSP)  
+  https://github.com/neovim/nvim-lspconfig
+
+- **mason.nvim** (Gestor de LSP/DAP/formatters)  
+  https://github.com/williamboman/mason.nvim
+
+- **conform.nvim** (Formatter)  
+  https://github.com/stevearc/conform.nvim
+
+---
+
+### 🌈 Coloreado y sintaxis
+- **nvim-treesitter**  
+  https://github.com/nvim-treesitter/nvim-treesitter
+
+---
+
+### 🌿 Git
+- **gitsigns.nvim**  
+  https://github.com/lewis6991/gitsigns.nvim
+
+---
+
+### 🔍 Búsqueda y navegación
+- **telescope.nvim**  
+  https://github.com/nvim-telescope/telescope.nvim
+
+---
+
+### 🗂 Explorador de archivos
+- **oil.nvim**  
+  https://github.com/stevearc/oil.nvim
+
+---
+
+### 🧩 Interfaz
+- **lualine.nvim** (Statusline)  
+  https://github.com/nvim-lualine/lualine.nvim
+
+- **which-key.nvim** (Ayuda de atajos)  
+  https://github.com/folke/which-key.nvim
+
+- **mini.starter** (Pantalla de inicio)  
+  https://github.com/echasnovski/mini.nvim
+
+---
+
+### ✍️ Edición
+- **Comment.nvim**  
+  https://github.com/numToStr/Comment.nvim
+
