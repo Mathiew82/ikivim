@@ -40,15 +40,6 @@ These LSPs are automatically installed and enabled:
 
 ---
 
-## Install everything on a new machine
-
-After cloning the config:
-``` vim
-:Lazy sync
-```
-
----
-
 ## Plugin manager
 
 -   **lazy.nvim**
