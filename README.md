@@ -288,6 +288,9 @@ Used to manage all plugins and allow easy setup on new machines.
 - **mini.surround**
   https://github.com/nvim-mini/mini.surround
 
+- **treesj**
+  https://github.com/Wansmer/treesj
+
 ### Navigation
 - **flash.nvim**
   https://github.com/folke/flash.nvim
