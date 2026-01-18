@@ -1,9 +1,9 @@
 return {
   {
     "stevearc/oil.nvim",
-    cmd = "Oil",
-    config = function()
-      require("oil").setup({})
-    end,
+    lazy = false,
+    opts = {
+      default_file_explorer = true,
+    },
   },
 }
