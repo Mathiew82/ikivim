@@ -3,9 +3,13 @@
 This configuration is built from scratch, focused on speed, clarity and
 full control over plugins and features.
 
-## Dependencies
+## Requirements
 
 These tools must be installed for the setup to work properly.
+
+- Neovim >= 0.11.2
+- Git >= 2.19.0
+- a Nerd Font to display some icons (optional)
 
 ### 1. Node.js
 
@@ -110,33 +114,6 @@ tree-sitter --version
 
 ---
 
-### 8. Clipboard support
-
-Neovim requires an external tool to integrate with the system clipboard.
-
-#### Linux:
-
-First, check which display server you are using:
-
-```bash
-echo $XDG_SESSION_TYPE
-```
-
-- If it returns `wayland` - you are using Wayland
-- If it returns `x11` - you are using X11
-
-**For Wayland (wl-clipboard)**
-```bash
-sudo apt install wl-clipboard
-```
-
-**Fow X11 (xclip)**
-```bash
-sudo apt install xclip
-```
-
----
-
 **2- Required a C compiler:**
 
 Check if CC is installed
@@ -187,6 +164,33 @@ cc --version
 ```
 ``` bash
 tree-sitter --version
+```
+
+---
+
+### 8. Clipboard support
+
+Neovim requires an external tool to integrate with the system clipboard.
+
+#### Linux:
+
+First, check which display server you are using:
+
+```bash
+echo $XDG_SESSION_TYPE
+```
+
+- If it returns `wayland` - you are using Wayland
+- If it returns `x11` - you are using X11
+
+**For Wayland (wl-clipboard)**
+```bash
+sudo apt install wl-clipboard
+```
+
+**Fow X11 (xclip)**
+```bash
+sudo apt install xclip
 ```
 
 ---
