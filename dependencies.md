@@ -101,6 +101,8 @@ cargo install --locked tree-sitter-cli
 tree-sitter --version
 ```
 
+...
+
 **2- Required a C compiler:**
 
 **Install on Linux**
