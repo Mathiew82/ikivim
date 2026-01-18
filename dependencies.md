@@ -101,16 +101,7 @@ cargo install --locked tree-sitter-cli
 tree-sitter --version
 ```
 
----
-
 **2- Required a C compiler:**
-
-Check if CC is installed
-``` bash
-cc --version
-```
-
----
 
 **Install on Linux**
 
@@ -132,8 +123,6 @@ macOS
 xcode-select --install
 ```
 
----
-
 **Install on Windows**
 
 By download link (✔ Select Desktop development with C++)
@@ -144,8 +133,6 @@ Git Bash / MSYS2 / WSL
 ``` bash
 sudo dnf groupinstall "Development Tools"
 ```
-
----
 
 Final check if tree-sitter-cli and C compiler is installed
 ``` bash
