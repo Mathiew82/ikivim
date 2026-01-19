@@ -55,65 +55,71 @@ Used to manage all plugins and allow easy setup on new machines.
 ## Installed Plugins
 
 ### Theme
-- **catppuccin.nvim**
+- **catppuccin.nvim** – Color scheme
   https://github.com/catppuccin/nvim
 
 ### Autocomplete
-- **nvim-cmp**
+- **nvim-cmp** – Completion engine
   https://github.com/hrsh7th/nvim-cmp
 
+- **LuaSnip** – Snippets engine
+  https://github.com/L3MON4D3/LuaSnip
+
 ### LSP and Tools
-- **nvim-lspconfig** (LSP configuration)
+- **nvim-lspconfig** – LSP setup
   https://github.com/neovim/nvim-lspconfig
 
-- **mason.nvim** (LSP/DAP/formatters manager)
+- **mason.nvim** – LSP/DAP installer
   https://github.com/williamboman/mason.nvim
 
-- **conform.nvim** (formatter)
+- **fidget.nvim** – LSP progress UI
+  https://github.com/j-hui/fidget.nvim
+
+- **conform.nvim** – Code formatter
   https://github.com/stevearc/conform.nvim
 
 ### Coloring and syntax
-- **nvim-treesitter**
+- **nvim-treesitter** – Syntax highlighting
   https://github.com/nvim-treesitter/nvim-treesitter
 
-- **nvim-colorizer.lua**
+- **nvim-colorizer.lua** – Color preview
   https://github.com/norcalli/nvim-colorizer.lua
 
 ### File Explorer
-- **oil.nvim**
+- **oil.nvim** – File manager
   https://github.com/stevearc/oil.nvim
 
 ### Search and navigation
-- **telescope.nvim**
+- **telescope.nvim** – Fuzzy finder
   https://github.com/nvim-telescope/telescope.nvim
 
 ### Git
-- **gitsigns.nvim**
+- **gitsigns.nvim** – Git indicators
   https://github.com/lewis6991/gitsigns.nvim
 
 ### Interface
-- **lualine.nvim** (status line)
+- **lualine.nvim** – Status line
   https://github.com/nvim-lualine/lualine.nvim
 
-- **which-key.nvim** (keymaps help)
+- **which-key.nvim** – Keymap helper
   https://github.com/folke/which-key.nvim
 
-- **mini.starter** (home page)
+- **mini.starter** – Start screen
   https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-starter.md
 
 ### Edition
-- **Comment.nvim**
+- **Comment.nvim** – Comment toggle
   https://github.com/numToStr/Comment.nvim
 
-- **nvim-autopairs**
+- **nvim-autopairs** – Auto close pairs
   https://github.com/windwp/nvim-autopairs
 
-- **mini.surround**
+- **mini.surround** – Surround editing
   https://github.com/nvim-mini/mini.surround
 
-- **treesj**
+- **treesj** – Split/join code
   https://github.com/Wansmer/treesj
 
 ### Navigation
-- **flash.nvim**
+- **flash.nvim** – Motion jumps
   https://github.com/folke/flash.nvim
