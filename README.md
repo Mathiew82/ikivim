@@ -3,6 +3,16 @@
 </div>
 &nbsp;
 
+> [!WARNING]  
+> In progress
+
+### Pending
+- ⬜ DAP Adapter
+- ⬜ DAP UI
+- ⬜ DAP Languages
+
+---
+
 # ikivim setup
 
 This configuration is built from scratch, focused on speed, clarity and
