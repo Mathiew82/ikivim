@@ -26,20 +26,20 @@ full control over plugins and features.
 
 These LSPs are automatically installed and enabled:
 
- - lua_ls
- - pyright
- - vtsls
- - vue_ls
- - cssls
- - eslint
- - rust_analyzer
- - docker_compose_language_service
- - tailwindcss
- - taplo
- - bashls
- - jsonls
- - yamlls
- - phpactor
+- bashls
+- cssls
+- docker_compose_language_service
+- eslint
+- jsonls
+- lua_ls
+- phpactor
+- pyright
+- rust_analyzer
+- tailwindcss
+- taplo
+- vtsls
+- vue_ls
+- yamlls
 
 ---
 
