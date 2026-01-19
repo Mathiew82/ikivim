@@ -1,22 +1,22 @@
-vim.opt.number = true             -- Muestra números de línea
-vim.opt.relativenumber = true     -- Muestra números relativos
+vim.opt.number = true             -- Show line numbers
+vim.opt.relativenumber = true     -- Show relative line numbers
 
-vim.opt.tabstop = 2               -- Un tab equivale a 2 espacios
-vim.opt.shiftwidth = 2            -- Tamaño de indentación al usar >>
-vim.opt.expandtab = true          -- Convierte tabs en espacios
+vim.opt.tabstop = 2               -- A tab equals 2 spaces
+vim.opt.shiftwidth = 2            -- Indentation size when using >>
+vim.opt.expandtab = true          -- Convert tabs to spaces
 
-vim.opt.smartindent = true        -- Indentación automática inteligente
-vim.opt.clipboard = "unnamedplus" -- Activar el clipboard
+vim.opt.smartindent = true        -- Smart automatic indentation
+vim.opt.clipboard = "unnamedplus" -- Enable system clipboard
 
-vim.opt.swapfile = false          -- Desactiva archivos swap (menos I/O)
-vim.opt.backup = false            -- No crea archivos backup
-vim.opt.undofile = true           -- Permite deshacer incluso tras cerrar
+vim.opt.swapfile = false          -- Disable swap files (less I/O)
+vim.opt.backup = false            -- Do not create backup files
+vim.opt.undofile = true           -- Persistent undo across sessions
 
-vim.opt.updatetime = 250          -- Reduce tiempo de refresco (snappy)
+vim.opt.updatetime = 250          -- Reduce refresh time (snappy)
 
-vim.opt.termguicolors = true      -- Activa colores 24 bits
-vim.opt.scrolloff = 8             -- Mantiene 8 líneas visibles al mover cursor
-vim.opt.signcolumn = "yes"        -- Columna fija para diagnósticos
+vim.opt.termguicolors = true      -- Enable 24-bit colors
+vim.opt.scrolloff = 8             -- Keep 8 lines visible around cursor
+vim.opt.signcolumn = "yes"        -- Always show sign column
 
 vim.opt.foldmethod = "syntax"     -- Create folds based on syntax highlighting
 vim.opt.foldlevelstart = 99       -- Start with all folds open
