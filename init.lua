@@ -1,5 +1,8 @@
-vim.opt.rtp:prepend(vim.fn.stdpath("data") .. "/lazy/lazy.nvim")
+local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 
 require("config")
 
-require("lazy").setup("plugins")
+if vim.fn.isdirectory(lazypath) == 1 then
+  vim.opt.rtp:prepend(lazypath)
+  require("lazy").setup("plugins")
+end
