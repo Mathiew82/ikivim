@@ -245,7 +245,7 @@ Huge thanks to these amazing developers for their awesome work:
     <td align="center">
       <a href="https://github.com/Mathiew82">
         <img src="https://avatars.githubusercontent.com/u/22583657?v=4" width="80"/>
-        <br/>lewis6991
+        <br/>Mathiew82
       </a>
     </td>
   </tr>
