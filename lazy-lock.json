@@ -18,6 +18,7 @@
   "mason.nvim": { "branch": "main", "commit": "44d1e90e1f66e077268191e3ee9d2ac97cc18e65" },
   "mini.starter": { "branch": "main", "commit": "8ee6ce6a4c9be47682516908557cc062c4d595a2" },
   "mini.surround": { "branch": "main", "commit": "f9358544ed06bc10197e698b7fc8dc5963be3f4b" },
+  "mynotes.nvim": { "branch": "main", "commit": "b1202d0661cf314c276819593b636951a42a89a1" },
   "nvim-autopairs": { "branch": "master", "commit": "c2a0dd0d931d0fb07665e1fedb1ea688da3b80b4" },
   "nvim-cmp": { "branch": "main", "commit": "85bbfad83f804f11688d1ab9486b459e699292d6" },
   "nvim-colorizer.lua": { "branch": "master", "commit": "a065833f35a3a7cc3ef137ac88b5381da2ba302e" },
