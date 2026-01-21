@@ -8,7 +8,7 @@
 > You can use this configuration; it's stable. However, the following still needs to be added.
 
 ### Pending
-- ✅ Sessions Manager
+- ✅ Sessions Manager (phantom.nvim)
 - ⬜ DAP Adapter
 - ⬜ DAP UI
 - ⬜ DAP Languages
@@ -100,6 +100,7 @@ These LSPs are automatically installed and enabled:
 - [treesj](https://github.com/Wansmer/treesj) – Split/join code
 - [yanky.nvim](https://github.com/gbprod/yanky.nvim) – Yank history
 - [mynotes.nvim](https://github.com/Mathiew82/mynotes.nvim) – Your notes
+- [phantom.nvim](https://github.com/Mathiew82/phantom.nvim) – Session manager
 
 ### Git
 - [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) – Git indicators
