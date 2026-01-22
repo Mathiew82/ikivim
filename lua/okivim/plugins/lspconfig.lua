@@ -3,7 +3,7 @@ return {
     "neovim/nvim-lspconfig",
     dependencies = { "hrsh7th/cmp-nvim-lsp" },
     config = function()
-      require("ikivim.lsp")
+      require("okivim.lsp")
     end,
   },
 }

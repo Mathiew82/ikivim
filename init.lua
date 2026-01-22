@@ -1,6 +1,6 @@
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 
-require("ikivim.config")
+require("okivim.config")
 
 if vim.fn.isdirectory(lazypath) == 0 then
   vim.fn.system({
@@ -15,4 +15,4 @@ end
 
 vim.opt.rtp:prepend(lazypath)
 
-require("lazy").setup("ikivim.plugins")
+require("lazy").setup("okivim.plugins")

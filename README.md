@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Mathiew82/ikivim/main/logo.png" width="500" alt="ikivim">
+    <img src="https://raw.githubusercontent.com/Mathiew82/okivim/main/logo.png" width="500" alt="okivim">
 </div>
 &nbsp;
 
@@ -15,7 +15,7 @@
 
 ---
 
-# ikivim setup
+# okivim setup
 
 This configuration is built from scratch, focused on speed, clarity and
 full control over plugins and features.
@@ -109,7 +109,7 @@ These LSPs are automatically installed and enabled:
 
 ## Screenshots
 
-| ![](https://raw.githubusercontent.com/Mathiew82/ikivim/refs/heads/main/screenshot1.png) | ![](https://raw.githubusercontent.com/Mathiew82/ikivim/refs/heads/main/screenshot2.png) | ![](https://raw.githubusercontent.com/Mathiew82/ikivim/refs/heads/main/screenshot3.png) | ![](https://raw.githubusercontent.com/Mathiew82/ikivim/refs/heads/main/screenshot4.png) | ![](https://raw.githubusercontent.com/Mathiew82/ikivim/refs/heads/main/screenshot5.png) |
+| ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot1.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot2.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot3.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot4.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot5.png) |
 |:---------------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|
 
 ---

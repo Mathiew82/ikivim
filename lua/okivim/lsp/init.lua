@@ -45,7 +45,7 @@ capabilities.textDocument.completion.completionItem.documentationFormat = {
 M.capabilities = capabilities
 
 -- Functions
-local servers_dir = vim.fn.stdpath("config") .. "/lua/ikivim/lsp/servers"
+local servers_dir = vim.fn.stdpath("config") .. "/lua/okivim/lsp/servers"
 
 local function discover_servers()
   local servers = {}
@@ -63,7 +63,7 @@ end
 
 local function load_servers(capabilities_param, servers)
   for _, server in ipairs(servers) do
-    local mod = "ikivim.lsp.servers." .. server
+    local mod = "okivim.lsp.servers." .. server
     local okey, setup = pcall(require, mod)
 
     if okey and type(setup) == "function" then

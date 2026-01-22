@@ -15,7 +15,7 @@ mv ~/.cache/nvim{,.bak}
 
 Clone the starter
 ```
-git clone https://github.com/Mathiew82/ikivim ~/.config/nvim
+git clone https://github.com/Mathiew82/okivim ~/.config/nvim
 ```
 
 Remove the .git folder, so you can add it to your own repo later
@@ -43,7 +43,7 @@ Move-Item $env:LOCALAPPDATA\nvim-data $env:LOCALAPPDATA\nvim-data.bak
 
 Clone the starter
 ```
-git clone https://github.com/Mathiew82/ikivim $env:LOCALAPPDATA\nvim
+git clone https://github.com/Mathiew82/okivim $env:LOCALAPPDATA\nvim
 ```
 
 Remove the .git folder, so you can add it to your own repo later

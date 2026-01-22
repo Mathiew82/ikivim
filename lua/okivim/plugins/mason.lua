@@ -1,4 +1,4 @@
-local lsp = require("ikivim.lsp")
+local lsp = require("okivim.lsp")
 
 return {
   {
