@@ -103,8 +103,8 @@ These LSPs are automatically installed and enabled:
 
 ## Screenshots
 
-| ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot1.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot2.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot3.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot4.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot5.png) |
-|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|
+| ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot1.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot2.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot3.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot4.png) |
+|:---------------------:|:---------------------:|:---------------------:|:---------------------:|
 
 ---
 
