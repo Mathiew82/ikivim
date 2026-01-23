@@ -16,9 +16,9 @@
 
 okivim is a minimal and efficient Neovim configuration focused on simplicity, performance, and maintainability. It provides a clean foundation with modern features like LSP, formatting, and diagnostics, while keeping the configuration transparent and easy to customize. Built to stay fast, predictable, and out of your way — giving you a setup that grows with your workflow.
 
-![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot1.png)
+![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshots/screenshot1.png)
 
-![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot2.png)
+![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshots/screenshot2.png)
 
 ## Features
 
@@ -138,7 +138,7 @@ okivim is a minimal and efficient Neovim configuration focused on simplicity, pe
 
 ## Screenshots
 
-| ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot1.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot2.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot3.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshot4.png) |
+| ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshots/screenshot1.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshots/screenshot2.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshots/screenshot3.png) | ![](https://raw.githubusercontent.com/Mathiew82/okivim/refs/heads/main/screenshots/screenshot4.png) |
 |:---------------------:|:---------------------:|:---------------------:|:---------------------:|
 
 ---
