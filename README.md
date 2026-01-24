@@ -43,24 +43,27 @@ okivim is a minimal and efficient Neovim configuration focused on simplicity, pe
 
 ## Requirements
 
+### Core Requirements
 - **[Neovim](https://neovim.io/)** >= 0.11.2
 - **[Git](https://git-scm.com/)** >= 2.19.0
 - a **[Nerd Font](https://www.nerdfonts.com/)** to display some icons (optional)
-- **[ripgrep](https://github.com/BurntSushi/ripgrep)** and **[fd](https://github.com/sharkdp/fd)** used by `Telescope` *(more info on installation [dependencies](./docs/dependencies.md))*
-- **[nvim-treesitter-cli](https://github.com/tree-sitter/tree-sitter/blob/master/crates/cli/README.md)** and **C compiler** for `nvim-treesitter` *(more info on installation [dependencies](./docs/dependencies.md))*
-- Clipboard support *(more info on installation [dependencies](./docs/dependencies.md))*
-- a terminal that support true color and undercurl:
-  - [kitty](https://sw.kovidgoyal.net/kitty/) (Linux & Macos)
-  - [wezterm](https://wezterm.org/) (Linux, Macos & Windows)
-  - [alacritty](https://alacritty.org/) (Linux, Macos & Windows)
-  - [iterm2](https://iterm2.com/) (Macos)
-  - [ghostty](https://ghostty.org/) (Linux, Macos & Windows)
+
+### Required Dependencies (for full functionality)
+- **Clipboard support** *(more info on [dependencies](./docs/dependencies.md))*
+- **[ripgrep](https://github.com/BurntSushi/ripgrep)** and **[fd](https://github.com/sharkdp/fd)** used by `Telescope` *(more info on [dependencies](./docs/dependencies.md))*
+- **[nvim-treesitter-cli](https://github.com/tree-sitter/tree-sitter/blob/master/crates/cli/README.md)** and **C compiler** for `nvim-treesitter` *(more info on [dependencies](./docs/dependencies.md))*
+- and a **terminal that support true color and undercurl**:
+  - [kitty](https://sw.kovidgoyal.net/kitty/) *(Linux & Macos)*
+  - [wezterm](https://wezterm.org/) *(Linux, Macos & Windows)*
+  - [alacritty](https://alacritty.org/) *(Linux, Macos & Windows)*
+  - [iterm2](https://iterm2.com/) *(Macos)*
+  - [ghostty](https://ghostty.org/) *(Linux, Macos & Windows)*
 
 ---
 
 ## Installation
 
-**[How to install](./docs/installation.md)** [ [See dependencies](./docs/dependencies.md) ]
+**[How to install](./docs/installation.md)** *([See dependencies](./docs/dependencies.md))*
 
 ---
 
