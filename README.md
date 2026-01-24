@@ -109,8 +109,11 @@ okivim is a minimal and efficient Neovim configuration focused on simplicity, pe
 
 ## Installed Plugins
 
-### Theme
-- [catppuccin.nvim](https://github.com/catppuccin/nvim) – *Color scheme*
+### Themes
+- [catppuccin.nvim](https://github.com/catppuccin/nvim)
+- [gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
+- [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)
+- [tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
 
 ### Autocomplete
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) – *Completion engine*
