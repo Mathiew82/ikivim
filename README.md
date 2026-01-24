@@ -286,8 +286,8 @@ Huge thanks to these amazing developers for their awesome work:
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Mathiew82">
-        <img src="https://avatars.githubusercontent.com/u/22583657?v=4" width="50" alt="Mathiew82"/>
+      <a href="https://github.com/mxsdev/nvim-dap-vscode-js">
+        <img src="https://avatars.githubusercontent.com/u/26291168?v=4" width="50" alt="mxsdev/nvim-dap-vscode-js"/>
       </a>
     </td>
     <td align="center">
@@ -318,17 +318,6 @@ Huge thanks to these amazing developers for their awesome work:
         <img src="https://avatars.githubusercontent.com/u/2443058?v=4" width="50" alt="jay-babu/mason-nvim-dap.nvim"/>
       </a>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://github.com/mxsdev/nvim-dap-vscode-js">
-        <img src="https://avatars.githubusercontent.com/u/26291168?v=4" width="50" alt="mxsdev/nvim-dap-vscode-js"/>
-      </a>
-    </td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
