@@ -94,10 +94,8 @@ okivim is a minimal and efficient Neovim configuration focused on simplicity, pe
 - js-debug-adapter - (JS / TS)
 - php-debug-adapter - (PHP)
 
-&nbsp;
-
 > [!NOTE]  
-> LSPs, formatters, linters, and debug adapters from these lists are automatically installed and enabled. All of them are managed by Mason.
+> These LSPs, formatters, linters, and debug adapters are automatically installed and enabled. All of them are managed by Mason.
 
 ---
 
@@ -115,7 +113,7 @@ okivim is a minimal and efficient Neovim configuration focused on simplicity, pe
 - [rose-pine](https://github.com/rose-pine/neovim)
 - [nightfox](https://github.com/EdenEast/nightfox.nvim)
 
-Use `:Theme <name>` to switch themes. The selected theme is saved and automatically restored on the next startup.
+> Easy to configure: add your themes in `plugins/colorscheme.lua` and switch the active one by changing the **colorscheme** option.
 
 ### Autocomplete
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) – *Completion engine*
