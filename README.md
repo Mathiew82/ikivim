@@ -27,7 +27,7 @@
     </a>
 </div>
 
-**okivim** is a minimal and efficient **Neovim configuration** focused on **simplicity, performance, and maintainability**. It provides a clean foundation with modern features like LSP, formatting, and diagnostics, while keeping the configuration transparent and easy to customize. Built to stay fast, predictable, and out of your way — giving you a setup that grows with your workflow.
+**Okivim** is a minimal and efficient **Neovim configuration** focused on **simplicity, performance, and maintainability**. It provides a clean foundation with modern features like LSP, formatting, and diagnostics, while keeping the configuration transparent and easy to customize. Built to stay fast, predictable, and out of your way — giving you a setup that grows with your workflow.
 
 ![](https://raw.githubusercontent.com/okivim/okivim/refs/heads/main/screenshots/screenshot1.png)
 
