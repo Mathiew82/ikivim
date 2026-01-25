@@ -4,14 +4,15 @@ return {
     config = function()
       require("conform").setup({
         formatters_by_ft = {
-          javascript = { "prettierd" },
-          typescript = { "prettierd" },
+          javascript      = { "prettierd" },
+          typescript      = { "prettierd" },
           javascriptreact = { "prettierd" },
           typescriptreact = { "prettierd" },
-          json = { "prettierd" },
-          css = { "prettierd" },
-          html = { "prettierd" },
-          vue = { "prettierd" },
+          json            = { "prettierd" },
+          scss            = { "stylelint", "prettierd" },
+          css             = { "stylelint", "prettierd" },
+          html            = { "prettierd" },
+          vue             = { "prettierd" },
         },
 
         format_on_save = {

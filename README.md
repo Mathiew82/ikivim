@@ -133,7 +133,7 @@ debugpy (Python) - codelldb (Rust / C / C++) - js-debug-adapter (JS / TS) - php-
 
 </details>
 
-**And formatters =** prettierd, taplo
+**And formatters =** prettierd, stylelint, taplo
 
 <p></p>
 
