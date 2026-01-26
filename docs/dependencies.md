@@ -68,17 +68,16 @@ sudo apt install fd-find
 ``` bash
 brew install fd
 ```
+*If you want create a symlink (Optional)*
+
+``` bash
+ln -s $(which fdfind) ~/.local/bin/fd
+```
 **Windows**
 ``` bash
 scoop install fd
 or
 choco install fd
-```
-
-*If you want create a symlink (Optional)*
-
-``` bash
-ln -s $(which fdfind) ~/.local/bin/fd
 ```
 
 ---
